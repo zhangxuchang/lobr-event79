@@ -1,0 +1,9 @@
+{
+    "targets": {
+        "site-lopl-event79": {
+            "type" : "static",
+            "hosts": "event79-lopl.oasgames.com",
+            "root" : "public"
+        }
+    }
+}

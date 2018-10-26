@@ -1,0 +1,26 @@
+{
+    "index" : {
+        "input"       : [
+            "images/index/*",
+            "!images/index/atlas*"
+        ],
+        "output_image": "images/index",
+        "output_css"  : "css",
+        "image_name"  : "atlas_index.png",
+        "css_name"    : "atlas_index.css",
+        "image_path_prefix": "../images/index/",
+        "copy"        : "../public/images/index"
+    },
+    "detail": {
+        "input"       : [
+            "images/detail/*",
+            "!images/detail/atlas*"
+        ],
+        "output_image": "images/detail",
+        "output_css"  : "css",
+        "image_name"  : "atlas_detail.png",
+        "css_name"    : "atlas_detail.css",
+        "image_path_prefix": "../images/detail/",
+        "copy"        : "../public/images/detail"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "images": {
+        "input" : [
+            "images/*",
+            "!images/detail",
+            "!images/index"
+        ],
+        "output": "../public/images"
+    }
+}

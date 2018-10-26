@@ -1,0 +1,84 @@
+.detail_bg_nav {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -161px -272px;
+  width: 274px;
+  height: 30px;
+}
+.detail_btn_ny1 {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: 0px -164px;
+  width: 161px;
+  height: 164px;
+}
+.detail_btn_ny1:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: 0px 0px;
+  width: 161px;
+  height: 164px;
+}
+.detail_btn_ny2 {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -161px 0px;
+  width: 161px;
+  height: 164px;
+}
+.detail_btn_ny2:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -322px 0px;
+  width: 161px;
+  height: 164px;
+}
+.detail_btn_ny3 {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -483px 0px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_ny3:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -483px -160px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_ny4 {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: 0px -328px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_ny4:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -157px -328px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_ny5 {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -314px -328px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_ny5:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -471px -328px;
+  width: 157px;
+  height: 160px;
+}
+.detail_btn_top {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: 0px -488px;
+  width: 91px;
+  height: 91px;
+}
+.detail_btn_top:hover {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -91px -488px;
+  width: 91px;
+  height: 91px;
+}
+.detail_logo_ny {
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -161px -164px;
+  width: 237px;
+  height: 108px;
+}

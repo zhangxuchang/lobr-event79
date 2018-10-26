@@ -1,0 +1,9 @@
+{
+    "detail": {
+        "input" : [
+            "js/detail.js"
+        ],
+        "output": "../public/js",
+        "concat": "detail.min.js"
+    }
+}

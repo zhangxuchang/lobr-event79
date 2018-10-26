@@ -1,0 +1,72 @@
+.index_bg_nav {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -438px -598px;
+  width: 274px;
+  height: 30px;
+}
+.index_btn_1 {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: 0px -234px;
+  width: 229px;
+  height: 234px;
+}
+.index_btn_1:hover {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: 0px 0px;
+  width: 229px;
+  height: 234px;
+}
+.index_btn_2 {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -229px 0px;
+  width: 229px;
+  height: 234px;
+}
+.index_btn_2:hover {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -458px 0px;
+  width: 229px;
+  height: 234px;
+}
+.index_btn_3 {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -448px -234px;
+  width: 219px;
+  height: 223px;
+}
+.index_btn_3:hover {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -229px -234px;
+  width: 219px;
+  height: 223px;
+}
+.index_btn_4 {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -687px 0px;
+  width: 219px;
+  height: 223px;
+}
+.index_btn_4:hover {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -687px -223px;
+  width: 219px;
+  height: 223px;
+}
+.index_btn_5 {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: 0px -468px;
+  width: 219px;
+  height: 223px;
+}
+.index_btn_5:hover {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -219px -468px;
+  width: 219px;
+  height: 223px;
+}
+.index_logo {
+  background-image: url(../images/index/atlas_index.png);
+  background-position: -438px -468px;
+  width: 283px;
+  height: 130px;
+}

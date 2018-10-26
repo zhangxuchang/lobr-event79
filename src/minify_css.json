@@ -1,0 +1,20 @@
+{
+    "index": {
+        "input" : [
+            "css/base.css",
+            "css/atlas_index.css",
+            "css/index.css"
+        ],
+        "output": "../public/css",
+        "concat": "index.min.css"
+    },
+    "detail": {
+        "input" : [
+            "css/base.css",
+            "css/atlas_detail.css",
+            "css/detail.css"
+        ],
+        "output": "../public/css",
+        "concat": "detail.min.css"
+    }
+}

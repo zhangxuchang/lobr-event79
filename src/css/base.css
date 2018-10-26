@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'SimplifiedArabic';
+    src: url('../fonts/simpo.eot');
+    src: url('../fonts/simpo.woff2') format('woff2'),
+    url('../fonts/SimplifiedArabic.woff') format('woff'),
+    url('../fonts/SimplifiedArabic.ttf') format('truetype'),
+    url('../fonts/SimplifiedArabic.svg#SimplifiedArabic') format('svg'),
+    url('../fonts/simpo.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+a {
+    blr: expression(this.onFocus=this.blur());
+    outline: none;
+    text-decoration: none;
+    background: transparent;
+    -moz-outline: none;
+}
+*:focus {
+    outline: none;
+}
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+.clearfix {
+    zoom: 1;
+    display: table;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+#footer{
+    min-width: 1000px;
+}

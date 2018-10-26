@@ -1,0 +1,199 @@
+body{
+	background: #000;
+}
+.detail_content{
+	background:url(../images/bg_ny_top.jpg)center top no-repeat,url(../images/bg_ny_bottom.jpg) center bottom no-repeat
+	,url(../images/ny_mid.jpg) center center repeat-y
+	;
+	/*height: 914px;	*/
+	padding-bottom: 110px;
+	min-width: 1000px;
+}
+.mian{
+	margin: 0 auto;
+	width:1000px;
+	min-width: 1000px;
+	position: relative;
+}
+.nav{
+/*	background: url(../images/bg_nav.png) no-repeat;
+	width: 274px;
+	height: 30px;*/
+	float: right;
+	text-align: center;
+	line-height: 30px;
+	font-size: 14px;
+	font-family: Arial; 
+}
+.nav a{
+	color: #e2c68a;
+	text-decoration: none;
+}
+.nav a:hover{
+	color: #f8df68;
+}
+.nav span{
+	margin: 0 10px;
+	color: #e2c68a;
+}
+.logo {
+	padding-top: 30px;
+}
+.logo a{
+	display: block;
+	text-indent:-999999em;
+	margin: 0 0 0 78px; 
+}
+.bom_btn{
+	margin-top: 189px;
+}
+.bom_btn a{
+	margin-right: 13px;
+	float: left;
+}
+.bom_btn a:nth-child(1){
+	margin-left: 76px;
+}
+.bom_btn a:nth-child(2){
+	margin-top: 40px;
+}
+.bom_btn a:nth-child(4){
+	margin-top: 40px;
+}
+.bom_btn a:nth-child(1).active{
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: 0px 0px;
+  width: 161px;
+  height: 164px;
+}
+.bom_btn a:nth-child(2).active{
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -322px 0px;
+  width: 161px;
+  height: 164px;
+}
+.bom_btn a:nth-child(3).active{
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -483px -160px;
+  width: 157px;
+  height: 160px;
+}
+.bom_btn a:nth-child(4).active{
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -157px -328px;
+  width: 157px;
+  height: 160px;
+}
+.bom_btn a:nth-child(5).active{
+  background-image: url(../images/detail/atlas_detail.png);
+  background-position: -471px -328px;
+  width: 157px;
+  height: 160px;
+}
+.content{
+	font-family: Tahoma;
+}
+.content_top{
+	background: url(../images/bg_kuang_top.png) no-repeat;
+	width: 998px;
+	height: 100px;
+	margin: 5px auto 0;
+	color: #825d45;
+}
+.content_top p{
+	text-align: center;
+	font-size: 22px;
+	color: #b48667;
+	padding-top: 46px;
+}
+.content_mid{
+	background: url(../images/bg_kuang_mid.png) repeat-y;
+	width: 948px;
+	height: auto;
+	min-height: 330px;
+	padding: 0 0 15px 0; 
+	margin: 0 auto;
+	color: #825d45;
+}
+.mid_top{
+	padding-top: 30px;
+	width: 850px;
+	margin: 0 auto;
+	border-top: 1px solid #4e3b3b;
+	line-height: 26px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.content_mid p{
+	width: 850px;
+	margin: 0 auto;
+	font-size: 14px;
+	color: #825d45;
+	line-height: 26px;
+}
+.content_mid p img{
+	display: block;
+	margin:  25px auto;
+	border: 1px solid #431f04;
+}
+.content_bom{
+	background: url(../images/bg_kuang_bottom.png) repeat-y;
+	width: 996px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+.detail_btn_top{
+	display: none;
+	position: fixed;
+	right: -91px;
+	bottom: 140px;
+	/*margin-top: -45px;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
